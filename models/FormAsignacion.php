@@ -18,7 +18,7 @@ public function rules()
     ['idAsig', 'integer', 'message' => 'id Incorrecto'],
     ['idUsuario', 'integer', 'message' => 'id Incorrecto'],
     ['idLead', 'integer', 'message' => 'id Incorrecto'],
-    ['fechaAsig', 'required', 'message' => 'id Incorrecto'],
+    ['fechaAsig', 'required', 'message' => 'Fecha Incorrecto'],
     ['idListing', 'integer', 'message' => 'id Incorrecto'],
       
     
