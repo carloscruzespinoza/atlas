@@ -18,7 +18,7 @@ public function rules()
     
         ];
  }
- 
+ //etiquetas
  public function attributeLabels()
     {
         return [
