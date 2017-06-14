@@ -19,6 +19,7 @@ public function rules()
         ];
  }
  //etiquetas nuevas mejoradas
+ //Otro cambio extra
  public function attributeLabels()
     {
         return [
