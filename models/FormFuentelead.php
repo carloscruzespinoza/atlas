@@ -25,10 +25,7 @@ public function rules()
         return [
             'idFuenteLead'=>'id Fuente Lead',
             'nombreFuente'=>'Nombre Fuente',
-            'phOwner'=>'Telefono',
-            'celOwner'=>'Cel/Whatsapp',
-            'addressOwner'=>'Direccion',
-            'nacionality'=>'Nacionalidad',
+            
         ];
     }
  
